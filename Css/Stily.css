@@ -1,0 +1,51 @@
+.tituloblack{
+    color: rgb(25, 0, 255);
+    font-family: Arial;
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    background-color: rgb(155, 168, 180);
+}
+.tituloprincipal{
+    font-size: 60px;
+    color: rgb(253, 182, 1);
+    text-align: center;
+}
+
+.tituloverde:hover{
+    color: springgreen;
+    font-size: 50px;
+}
+
+.moverbotones{
+    margin-left: 80%;
+}
+
+.alinearmenu{
+    display: flex;
+    width: 100%;
+}
+
+#menuvertical{
+    width: 40%;
+    background-color: aqua;
+    height: 100vh;
+}
+
+#menuvertical ul li a{
+    padding: 10px;
+    font-size: 22px;
+    display: block;
+}
+
+#menuvertical ul li a:hover{
+    background-color: black;
+    color: white;
+
+}
+
+.sangria{
+    padding-left: 30px;
+}
+
